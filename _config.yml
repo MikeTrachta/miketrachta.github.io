@@ -29,7 +29,7 @@ twitter_username: miketrachta
 github_username:  miketrachta
 
 # Build settings
-theme: modernist
+theme: jekyll-theme-modernist
 plugins:
   - jekyll-feed
 
