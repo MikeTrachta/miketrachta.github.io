@@ -22,9 +22,9 @@ title: mike.trachta.org
 description: >- # this means to ignore newlines until "baseurl:"
   The official website of Mike Trachta.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://miketrachta.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-# email: mike@trachta.org
-# domain: miketrachta.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
+url: "https://miket.trachta.org" # the base hostname & protocol for your site, e.g. http://example.com
+email: mike@trachta.org
+domain: mike.trachta.org       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 twitter_username: miketrachta
 github_username:  miketrachta
 
