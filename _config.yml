@@ -27,13 +27,12 @@ email: mike@trachta.org
 domain: mike.trachta.org       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 # twitter_username: miketrachta
 github_username:  miketrachta
-bluesky_username: mike.trachta.org
+# bluesky_username: mike.trachta.org
 minima:
   show_excerpts: true
   social_links:
-    - title: '@mike.trachta.org on Bluesky'
-      icon: square-bluesky
-      url: "https://bsky.app/profile/mike.trachta.org"
+    bluesky: mike.trachta.org
+    github: miketrachta
 # Build settings
 theme: minima
 # theme: jekyll-theme-modernist
