@@ -7,8 +7,7 @@ permalink: /resume/
 Mike Trachta, CISM, CISSP
 ============
 ___
-Austin, TX 78758 | (512) 632-0362
-mike@trachta.org | [https://linkedin.com/in/miketrachta](https://linkedin.com/in/miketrachta)
+Austin, TX | mike@trachta.org | [https://linkedin.com/in/miketrachta](https://linkedin.com/in/miketrachta)
 
 
 Professional Summary
