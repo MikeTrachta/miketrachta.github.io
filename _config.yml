@@ -29,7 +29,7 @@ twitter_username: miketrachta
 github_username:  miketrachta
 
 # Build settings
-theme: jekyll-theme-modernist
+theme: minima
 plugins:
   - jekyll-feed
 
