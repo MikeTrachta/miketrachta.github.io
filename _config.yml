@@ -25,9 +25,14 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://miket.trachta.org" # the base hostname & protocol for your site, e.g. http://example.com
 email: mike@trachta.org
 domain: mike.trachta.org       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
-twitter_username: miketrachta
+# twitter_username: miketrachta
 github_username:  miketrachta
-
+bluesky_username: mike.trachta.org
+minima:
+  social_links:
+    - title: '@mike.trachta.org on Bluesky
+      icon: square-bluesky
+      url: "https://bsky.app/profile/mike.trachta.org"
 # Build settings
 theme: minima
 # theme: jekyll-theme-modernist
