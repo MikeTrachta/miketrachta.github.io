@@ -20,8 +20,15 @@ A dedicated and analytical cybersecurity professional with vast expertise in the
 Experience
 ----------
 
+***Enterprise IAM Architect***
+_Optiver - Austin, TX - 2023-Present
+
+- Serve as architect, technical lead, and product owner for Optiver's Identity and Access Manageemnt program
+- Collaborate on development of cybersecurity policies, standards, and controls
+
+
 ***Senior Technical Expert, Cybersecurity***
-_Walmart Global Tech - Austin, TX - May 2018- May 2023_
+_Walmart Global Tech - Austin, TX - 2018-2023_
 
 - Served as technical lead and product owner for internal SailPoint IdentityIQ deployment, managing over 2 million associate and vendor identities.
 - Developed and maintained Walmart's access governance roadmap.
