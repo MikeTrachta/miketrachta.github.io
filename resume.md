@@ -19,7 +19,7 @@ Experience
 ----------
 
 ***Enterprise IAM Architect***
-_Optiver - Austin, TX - 2023-Present
+_Optiver - Austin, TX - 2023-Present_
 
 - Serve as architect, technical lead, and product owner for Optiver's Identity and Access Manageemnt program
 - Collaborate on development of cybersecurity policies, standards, and controls
