@@ -12,7 +12,7 @@ Austin, TX | mike@trachta.org | [https://linkedin.com/in/miketrachta](https://li
 Professional Summary
 -------------------
 
-A dedicated and analytical cybersecurity professional with vast expertise in the design, implementation, and operation of large-scale identity and access management solutions.  Utilizes exceptional interpersonal and communications skills to guide and develop efficient, high-performing teams. A diligent and driven top-performer who delivers efficiency and profitability for an organization.
+A dedicated and analytical cybersecurity professional with vast expertise in the design, implementation, and operation of large-scale identity and access management solutions.  Utilizes exceptional interpersonal and communications skills to guide and develop efficient, high-performing teams. A diligent and driven top-performer who delivers security and efficiency for an organization.
 
 
 Experience
