@@ -6,6 +6,7 @@ permalink: /resume/
 
 Mike Trachta, CISM, CISSP
 ============
+___
 Austin, TX | mike@trachta.org | [https://linkedin.com/in/miketrachta](https://linkedin.com/in/miketrachta)
 
 
