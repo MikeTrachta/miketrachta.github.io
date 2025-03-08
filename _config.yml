@@ -30,7 +30,7 @@ github_username:  miketrachta
 bluesky_username: mike.trachta.org
 minima:
   social_links:
-    - title: '@mike.trachta.org on Bluesky
+    - title: '@mike.trachta.org on Bluesky'
       icon: square-bluesky
       url: "https://bsky.app/profile/mike.trachta.org"
 # Build settings
