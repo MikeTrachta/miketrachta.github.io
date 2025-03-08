@@ -25,11 +25,11 @@ description: >- # this means to ignore newlines until "baseurl:"
 domain: miketrachta.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://miketrachta.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: miketrachta
+github_username:  miketrachta
 
 # Build settings
-theme: minima
+theme: modernist
 plugins:
   - jekyll-feed
 
