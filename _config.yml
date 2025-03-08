@@ -29,6 +29,7 @@ domain: mike.trachta.org       # if you want to force HTTPS, specify the domain 
 github_username:  miketrachta
 bluesky_username: mike.trachta.org
 minima:
+  show_excerpts: true
   social_links:
     - title: '@mike.trachta.org on Bluesky'
       icon: square-bluesky
