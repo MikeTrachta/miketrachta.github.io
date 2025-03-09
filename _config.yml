@@ -34,8 +34,8 @@ minima:
     bluesky: mike.trachta.org
     github: miketrachta
   nav_pages:
-    - /_pages/about.md
-    - /_pages/resume.md
+    - about.md
+    - resume.md
 
 # Build settings
 theme: minima
