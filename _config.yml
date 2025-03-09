@@ -36,14 +36,15 @@ minima:
   nav_pages:
     - about.md
     - resume.md
+  header_pages:
+    - /_pages/about.md
+    - /_pages/resume.md
 # Build settings
 theme: minima
 # theme: jekyll-theme-modernist
 # remote_theme: pages-themes/modernist@v0.2.0
 
-header_pages:
-  - /_pages/about.md
-  - /_pages/resume.md
+
 
 gems:
   - jekyll-feed
