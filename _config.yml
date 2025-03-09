@@ -41,6 +41,11 @@ theme: minima
 # theme: jekyll-theme-modernist
 # remote_theme: pages-themes/modernist@v0.2.0
 
+gems:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-redirect-from
+  - jekyll-remote-theme
 
 plugins:
   - jekyll-feed
@@ -74,3 +79,6 @@ exclude:
   - Gemfile.lock
   - node_modules
   - vendor
+
+include: [ "_pages" ]
+
