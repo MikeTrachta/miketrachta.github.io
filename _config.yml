@@ -33,14 +33,19 @@ minima:
   social_links:
     bluesky: mike.trachta.org
     github: miketrachta
+  nav_pages:
+    - about.md
+    - resume.md
 # Build settings
 theme: minima
 # theme: jekyll-theme-modernist
 # remote_theme: pages-themes/modernist@v0.2.0
 
+
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-redirect-from
 #  - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 # Exclude from processing.
